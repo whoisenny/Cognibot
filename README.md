@@ -1,6 +1,6 @@
-# Computer Engineering AI Assistant
+# Cognibot
 
-A Streamlit-based interface for a Lamini-trained LLM model designed to assist undergraduate computer engineering students.
+A Streamlit-based interface for an OpenPipe-trained LLM model designed to assist undergraduate computer engineering students.
 
 ## Features
 
@@ -18,7 +18,7 @@ A Streamlit-based interface for a Lamini-trained LLM model designed to assist un
    ```
 3. Create a `.env` file in the root directory and add your Lamini API key:
    ```
-   LAMINI_API_KEY=your_api_key_here
+   OPENPIPE_API_KEY=your_api_key_here
    ```
 
 ## Running the Application
@@ -39,4 +39,4 @@ The application will be available at `http://localhost:8501` by default.
 
 ## Note
 
-Make sure you have a valid Lamini API key and your trained model is properly configured before using the application. 
+Make sure you have a valid OpenPipe API key and your trained model is properly configured before using the application. 
