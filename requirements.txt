@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+openpipe
+matplotlib
+fpdf
+Pillow
+PyPDF2
+sentence-transformers
+scikit-learn
+faiss-cpu
+numpy
